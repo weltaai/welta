@@ -56,7 +56,7 @@ This repository contains:
 ## 📄 Docs & Access
 
 - Full developer docs → coming with beta  
-- Whitelist → [link to form]  
+- Whitelist → [[link to form]  ](https://github.com/weltaai/welta/blob/main/WHITEPAPER.md)
 - Contact → build@welta.tech
 
 ---
